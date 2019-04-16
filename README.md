@@ -42,7 +42,8 @@ Example 3: Run the movie command
  node liri.js movie <name of movie>
 Output: The system will display information associated with the movie. 
 
- 
+ ![Screenshot (11)](https://user-images.githubusercontent.com/45401868/56178279-ba4d2e00-5fcf-11e9-8086-1843c4723ff0.png)
+
 
 
 
