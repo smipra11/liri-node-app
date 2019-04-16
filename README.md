@@ -22,9 +22,10 @@ Depending on the command you run, the output will vary.
 Example 1: Run the concert command
 
  node liri.js concert <name of artist or band>
+ 
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records.  See screen-shot below:
  
-
+![Screenshot (15)](https://user-images.githubusercontent.com/45401868/56178444-4a8b7300-5fd0-11e9-9e02-52057b219c1d.png)
 
 
 
