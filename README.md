@@ -33,7 +33,8 @@ Example 2: Run the spotifythis command
  node liri.js spotifythis <name of song>
 Output: The system will display a list of information associated with the song. It can result in multiple records. 
 
- 
+ ![Screenshot (13)](https://user-images.githubusercontent.com/45401868/56178369-05ffd780-5fd0-11e9-9df2-053d7ce28204.png)
+
 
 
 
