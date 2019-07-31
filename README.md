@@ -22,9 +22,10 @@ Depending on the command you run, the output will vary.
 Example 1: Run the concert command
 
  node liri.js concert <name of artist or band>
+ 
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records.  See screen-shot below:
  
-
+![Screenshot (15)](https://user-images.githubusercontent.com/45401868/56178444-4a8b7300-5fd0-11e9-9e02-52057b219c1d.png)
 
 
 
@@ -33,7 +34,8 @@ Example 2: Run the spotifythis command
  node liri.js spotifythis <name of song>
 Output: The system will display a list of information associated with the song. It can result in multiple records. 
 
- 
+ ![Screenshot (13)](https://user-images.githubusercontent.com/45401868/56178369-05ffd780-5fd0-11e9-9df2-053d7ce28204.png)
+
 
 
 
@@ -42,7 +44,8 @@ Example 3: Run the movie command
  node liri.js movie <name of movie>
 Output: The system will display information associated with the movie. 
 
- 
+ ![Screenshot (11)](https://user-images.githubusercontent.com/45401868/56178279-ba4d2e00-5fcf-11e9-8086-1843c4723ff0.png)
+
 
 
 
